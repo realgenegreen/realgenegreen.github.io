@@ -70,6 +70,9 @@ p, ul, dl {
 /* ~~~~~~~~~~IDs~~~~~~~~~~ */
 
 #hat {
+    align="center"
+    display: block;
+    margin: 0 auto;
     color: black;
     text-shadow: 3px 3px 1px brown;
 }
