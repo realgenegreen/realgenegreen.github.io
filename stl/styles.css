@@ -26,7 +26,7 @@ h2 {
     box-shadow: 3px 3px 1px brown;
 }
 
-p, ul, li {
+p, ul, dl {
     color: darkslategrey;
     line-height:80%;
     letter-spacing:normal;
